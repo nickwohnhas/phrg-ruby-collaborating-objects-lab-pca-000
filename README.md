@@ -77,4 +77,4 @@ This instance method exists to tell the artist about its songs. Simply take the 
 
 These are just a few hints and guidelines to help you through this lab. Rely on the guides here, refer to the previous Code Along on object relations, and **read the test output and test files**. Never forget to ask a question on Learn if you are stuck. Good luck!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-collaborating-objects-lab'>Collaborating Objects Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Ruby Collaborating Objects Lab</p>
